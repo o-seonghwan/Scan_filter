@@ -1,5 +1,3 @@
-# Scan_filter
-
 # Clustering-Based Defense Against Adversarial Attacks on Event-Based Vision Data
 
 This repository contains the official implementation of the graduation thesis: **"Clustering-Based Defense Against Adversarial Attacks on Event-Based Vision Data"**.
