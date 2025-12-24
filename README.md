@@ -7,7 +7,7 @@ We propose a robust defense mechanism utilizing **DBSCAN clustering** to filter 
 ## 📌 Key Features
 - **Attack Simulation:** Implementation of *Dash Attack* and *MF-Aware Dash Attack* on event data.
 - **Defense Mechanism:** A clustering-based filter (DBSCAN) that distinguishes between authentic event streams and adversarial noise based on spatiotemporal density.
-- **Performance Analysis:** Evaluation of defense robustness under varying attack parameters (e.g., pixel speed `ps`).
+- **Performance Analysis:** Evaluation of defense robustness under varying attack parameters.
 
 ## 🛠️ Requirements
 This project is implemented in **Python 3.x**. The main dependencies are:
